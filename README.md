@@ -69,8 +69,8 @@ Your personal settings and custom messages are stored safely in your user direct
 
 ## 🗑️ Uninstallation
 
-1. Delete `commands\417_cheerup\` from Cascadeur's scripts folder.
-2. Delete `models\417_cheerup\` from Cascadeur's scripts folder.
+1. Delete `Cascadeur\resources\scripts\python\commands\417_cheerup\` from Cascadeur's scripts folder.
+2. Delete `Cascadeur\resources\scripts\python\models\417_cheerup\` from Cascadeur's scripts folder.
 3. Optionally delete `%LOCALAPPDATA%\417_Casc_Addons\CheerUp\` to remove saved data.
 
 <br>
