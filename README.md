@@ -1,4 +1,4 @@
-# 🎉 417_CheerUp! v1.0.0
+# 🎉 417_CheerUp!
 
 🌍 **Multilingual UI Supported (EN/JP/KR/ZH)**
 
