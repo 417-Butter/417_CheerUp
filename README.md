@@ -88,18 +88,23 @@ See the `LICENSE` file for details.
 
 ---
 
-## 🎁 Special Offer
+<br>
 
-🌐 Get **15% OFF** Cascadeur plans!
-Promo Code: **Butter**
-▶ [Cascadeur Official Purchase Page](https://cascadeur.com/plans?ref=Butter)
+## 🎁 SPECIAL OFFER
 
----
+🌐 **Get 15% OFF Cascadeur plans!**<br>
+　 Promo Code: Butter<br>
+　 ▶[Cascadeur Official Purchase Page Here!](https://cascadeur.com/plans?ref=Butter)
 
-Creator (417_Butter): [X](https://x.com/417_Butter) | [YouTube](https://www.youtube.com/@417_Butter) | [GitHub](https://github.com/417-Butter)
+<br>
 
-🎬 I also make [Cascadeur tutorials](https://www.youtube.com/@417_Butter) on YouTube!]
+## 
+Creator(417_Butter)：[X](https://x.com/417_Butter) | [YouTube](https://www.youtube.com/@417_Butter) | [GitHub](https://github.com/417-Butter)
+
+
+🎬 **I also make [Cascadeur tutorials](https://www.youtube.com/@417_Butter) on Youtube!**
 
 <br>
 
 [<img width="1790" height="1456" alt="youtube_video" src="https://github.com/user-attachments/assets/987dc072-0066-486c-88b5-e8067c1185fc" />](https://www.youtube.com/@417_Butter)
+
