@@ -31,7 +31,7 @@ https://github.com/user-attachments/assets/9c453012-d7d2-4209-b027-b6d6e666ab7a
 ## 🚀 Installation
 
 ### ■ Method A: Auto Installer (Recommended)
-1. Download and extract the latest zip file.
+1. Download the latest version from the [Releases page](../../releases).
 2. Double-click `install.bat` located in the extracted folder.
 3. The installer will automatically detect your Cascadeur installation and copy the necessary files.
    - *If it fails to auto-detect, please select the path manually (e.g., `C:\Program Files\Cascadeur`).*
