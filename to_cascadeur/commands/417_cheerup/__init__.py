@@ -14,8 +14,8 @@ DEFAULT_SETTINGS = {
     "language":         "en",
     "interval_minutes": 5,
     "show_elapsed":     True,
-    "show_prefix":      True,
-    "show_quotes":      False,
+    "show_prefix":      False,
+    "show_quotes":      True,
     "active_group":     "Default"
 }
 
