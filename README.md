@@ -1,9 +1,20 @@
 # 🎉 417_CheerUp! v1.0.0
 
-**Multilingual Supported (EN / JP / KR / ZH)**
+🌍 **Multilingual UI Supported (EN/JP/KR/ZH)**
 
-A Cascadeur add-on that sends you random **encouragement messages** at a set interval while you work — because every animator deserves a little cheer! 🌟<br>
+This is an encouragement add-on for Cascadeur.<br>
+It sends you random **encouragement messages** at a set interval while you work.<br>
+**SIMPLE, FUN, and AWESOME!**<br>
 
+It will make your animation work even MORE enjoyable! 💫
+
+<br>
+
+## 🎬 Reference Video
+
+*The video shows an early development version.<br>
+
+https://github.com/user-attachments/assets/9c453012-d7d2-4209-b027-b6d6e666ab7a
 
 <br>
 
