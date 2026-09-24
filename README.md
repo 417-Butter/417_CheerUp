@@ -84,6 +84,7 @@ Your personal settings and custom messages are stored safely in your user direct
 
 ## ⚠️ Precautions
 
+- If a message disappears too quickly, you can also view it in the **Event Log** tab on the right side of the screen.
 - If it does not work properly, try restarting or reinstalling Cascadeur and this add-on.
 - For other issues, please check the [issues](../../issues) page.
   If the problem persists, please contact the author via [issues](../../issues) / [X](https://x.com/417_Butter) / [YouTube](https://youtu.be/kQZpaUDdBus).
