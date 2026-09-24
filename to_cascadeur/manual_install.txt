@@ -1,0 +1,43 @@
+========================================
+ Manual Installation Guide / 手動インストール用メモ
+========================================
+
+【English】
+
+If the installer (install.bat) fails, or if you prefer to install manually,
+copy the two `417_cheerup` folders inside this `to_cascadeur` folder directly into the `commands` and `models` folders of your Cascadeur installation.
+
+----------------------------------------
+■ Source Folders
+----------------------------------------
+1. to_cascadeur\commands\417_cheerup
+2. to_cascadeur\models\417_cheerup
+
+----------------------------------------
+■ Destination Example (Default Windows Path)
+----------------------------------------
+C:\Program Files\Cascadeur\resources\scripts\python\commands\
+C:\Program Files\Cascadeur\resources\scripts\python\models\
+
+
+
+========================================
+========================================
+
+【日本語】
+
+インストーラー (install.bat) が使えない場合や、手動でインストールを行いたい場合は、
+この `to_cascadeur` フォルダ内にある2つのフォルダ（417_cheerup）を、Cascadeurの「commands」「models」フォルダ内にそれぞれ直接コピーしてください。
+
+----------------------------------------
+■ コピー元
+----------------------------------------
+1. to_cascadeur\commands\417_cheerup
+2. to_cascadeur\models\417_cheerup
+
+----------------------------------------
+■ コピー先のパス例 (デフォルト設定の場合)
+----------------------------------------
+C:\Program Files\Cascadeur\resources\scripts\python\commands\
+C:\Program Files\Cascadeur\resources\scripts\python\models\
+
