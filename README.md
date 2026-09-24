@@ -2,9 +2,10 @@
 
 **Multilingual Supported (EN / JP / KR / ZH)**
 
-A Cascadeur add-on that sends you random **encouragement messages** at a set interval while you work — because every animator deserves a little cheer! 🌟
+A Cascadeur add-on that sends you random **encouragement messages** at a set interval while you work — because every animator deserves a little cheer! 🌟<br>
 
----
+
+<br>
 
 ## ✨ Features
 
@@ -14,7 +15,7 @@ A Cascadeur add-on that sends you random **encouragement messages** at a set int
 - 📂 **JSON / TXT import & export** — Create personalized messages with AI, then import and share them.
 - 🪶 **Ultra-lightweight** — runs a single QTimer, near-zero CPU/memory use
 
----
+<br>
 
 ## 🚀 Installation
 
@@ -31,7 +32,7 @@ A Cascadeur add-on that sends you random **encouragement messages** at a set int
 If the installer fails, you can manually copy the files.
 Please refer to `manual_install.txt` inside the `to_cascadeur` folder.
 
----
+<br>
 
 ## 🎮 Usage
 
@@ -41,7 +42,7 @@ Please refer to `manual_install.txt` inside the `to_cascadeur` folder.
 | **Commands > 417_cheerup > Stop** | Stop the timer. |
 | **Commands > 417_cheerup > Settings** | Open the settings dialog. |
 
----
+<br>
 
 ## 📂 User Data Location
 
@@ -53,7 +54,7 @@ Your personal settings and custom messages are stored safely in your user direct
   presets.json        ← your custom message groups
 ```
 
----
+<br>
 
 ## 🗑️ Uninstallation
 
@@ -61,14 +62,14 @@ Your personal settings and custom messages are stored safely in your user direct
 2. Delete `models\417_cheerup\` from Cascadeur's scripts folder.
 3. Optionally delete `%LOCALAPPDATA%\417_Casc_Addons\CheerUp\` to remove saved data.
 
----
+<br>
 
 ## 💻 System Requirements
 
 - **OS**: Windows 10 / 11
 - **Cascadeur**: 2026.2
 
----
+<br>
 
 ## ⚠️ Precautions
 
@@ -78,15 +79,13 @@ Your personal settings and custom messages are stored safely in your user direct
 
 **Disclaimer**: Use this add-on at your own risk. The author is not responsible for any troubles or damages caused by its use.
 
----
+<br>
 
 ## 📜 License
 
 This project is licensed under the **MIT License**.
 You are free to use, modify, and distribute this software, including using the code as a reference for your own projects.
 See the `LICENSE` file for details.
-
----
 
 <br>
 
