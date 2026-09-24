@@ -89,6 +89,8 @@ See the `LICENSE` file for details.
 
 <br>
 
+<br>
+
 ## 🎁 SPECIAL OFFER
 
 🌐 **Get 15% OFF Cascadeur plans!**<br>
