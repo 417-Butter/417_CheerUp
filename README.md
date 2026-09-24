@@ -1,4 +1,4 @@
-# 🎉 417_CheerUp!
+# 🎉 417_CheerUp
 
 🌍 **Multilingual UI Supported (EN/JP/KR/ZH)**
 
