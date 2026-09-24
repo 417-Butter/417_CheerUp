@@ -898,8 +898,20 @@ Dialogs.DialogBase {
                 }
 
                 Item { Layout.fillWidth: true }
-                Dialogs.DialogButton {
+                Button {
                     text: root.t.btn_close
+                    implicitHeight: 32; implicitWidth: 80
+                    background: Rectangle {
+                        color: parent.pressed ? bs.bgPrs : (parent.hovered ? bs.bgHov : bs.bg)
+                        radius: bs.r
+                        border.color: bs.bdr; border.width: 1
+                    }
+                    contentItem: Text {
+                        text: parent.text; color: bs.txt
+                        font.pixelSize: 13
+                        horizontalAlignment: Text.AlignHCenter
+                        verticalAlignment: Text.AlignVCenter
+                    }
                     onClicked: { if (root.window) root.window.close() }
                 }
             }
