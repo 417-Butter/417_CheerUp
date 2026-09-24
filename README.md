@@ -19,7 +19,7 @@ A Cascadeur add-on that sends you random **encouragement messages** at a set int
 
 ## 🚀 Installation
 
-### Method A: Auto Installer (Recommended)
+### ■ Method A: Auto Installer (Recommended)
 1. Download and extract the latest zip file.
 2. Double-click `install.bat` located in the extracted folder.
 3. The installer will automatically detect your Cascadeur installation and copy the necessary files.
@@ -28,7 +28,7 @@ A Cascadeur add-on that sends you random **encouragement messages** at a set int
 4. (Re)start Cascadeur.
 5. The menu **Commands > 417_cheerup** will appear.
 
-### Method B: Manual Installation
+### ■ Method B: Manual Installation
 If the installer fails, you can manually copy the files.
 Please refer to `manual_install.txt` inside the `to_cascadeur` folder.
 
